@@ -11,7 +11,8 @@ My name is Vinicius Marin Rodrigues, but my friends call only by "Marin"
 
 ### If you want to contact me
 
-- viniciusmarinrod@gmail.com
-- vmarin.rodrigues18@gmail.com
+- vmarin.rodrigues18@gmail.com - Professional
+- viniciusmarinrod@gmail.com - Personal
+
 
 ![](https://media.tenor.com/kYWeox8OKvAAAAAC/pokemon-squirtle.gif)
