@@ -1,4 +1,4 @@
-### Welcome to my profile 👐
+### Welcome to my profile 🤗
 
 My name is Vinicius Marin Rodrigues, but my friends call only by "Marin"
 
@@ -9,7 +9,7 @@ My name is Vinicius Marin Rodrigues, but my friends call only by "Marin"
 - Working on my Final High School Project, which consists in a Mobile App, Desktop App and a WebSite
 - Still in the job hunt
 
-### If you want to contact me
+### If you want to contact me 📫
 
 - vmarin.rodrigues18@gmail.com - Professional
 - viniciusmarinrod@gmail.com - Personal
