@@ -1,9 +1,9 @@
 ### Welcome to my profile 🤗
 
-- I am Brazilian, I speak Portuguese and English
+-💻 I’m a Telecommunications Engineering student at Unicamp, with a strong interest in web applications and app development.
 
 ### If you want to contact me 📫
 
 - vmarin.rodrigues18@gmail.com
 
-![Squirtleeee]([https://media.tenor.com/kYWeox8OKvAAAAAC/pokemon-squirtle.gif](https://i.pinimg.com/originals/c6/ca/ae/c6caae3448dc1ea1729d46aa38aef8d2.gif))
+![Squirtleeee](https://media.tenor.com/DZmger-hYgYAAAAM/squirtle-squad-squirtle.gif)
